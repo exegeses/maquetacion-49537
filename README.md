@@ -1,2 +1,19 @@
-# maquetacion-49537
-Curso de maquetación web HTML y CSS - código 49537
+
+
+# Maquetación web con HTML 5 + CSS
+> Curso de Maquetado Web |   
+> Miércoles 10hs (Arg) |  
+> Código: 49537 |  
+> sensei: Marcos Pinardi |
+
+## Definición
+
+## Requisitos de software
+
+1. un browser
+2. un IDE o Editor de código
+
+   Sublime Text 3 https://www.sublimetext.com/   
+   Visual Studio Code https://code.visualstudio.com/  
+   Brackets http://brackets.io/  
+   
