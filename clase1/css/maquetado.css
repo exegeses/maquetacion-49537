@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500;600&display=swap');
+
+header{
+    height: 130px;
+    background-color: #392f1e;
+}
+nav{
+    height: 60px;
+    background-color: sandybrown;
+}
+main{
+    height: 550px;
+}
+footer{
+    height: 150px;
+    background-color: #392f1e;
+}

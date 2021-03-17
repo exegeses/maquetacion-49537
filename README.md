@@ -8,7 +8,7 @@
 
 ## Definición
 
-Definamos maquetado
+Maquetado web es: volcar a código HTML y CSS el proyecto web que vayamos a relizar.
 
 ## Requisitos de software
 
