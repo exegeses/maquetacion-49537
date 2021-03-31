@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/exegeses/maquetacion-49537/main/clase2/imagenes/prototyping.png">
+
 # Proceso de maquetado
 
 > Debería seguir los siguientes pasos.
