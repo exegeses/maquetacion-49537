@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Helvetica;
+    font-size: 1.5em;
+}
+#verde, #naranja, #celeste {
+    width: 200px;
+    height: 130px;
+    margin: 20px;
+}
+#verde{
+    background-color: #ddffbc;
+}
+#naranja{
+    background-color: #ffe1bc;
+    padding: 20px;
+}
+#celeste{
+    background-color: #bcfff7;
+}

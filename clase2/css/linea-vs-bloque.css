@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* border: none; */
+}
+body{
+    background-color: #f0e4d7;
+    font-family: Helvetica;
+    font-size: 1.5em;
+}
+p{
+    background-color: #f5c0c0;
+}
+#caja1{
+    background-color: #9fd8df;
+    height: 120px;
+}
+#caja2{
+    background-color: #ff7171;
+    height: 120px;
+}
