@@ -11,12 +11,28 @@ header{
 }
 nav{
     height: 70px;
+    text-align: center;
+    padding-top: 20px;
 }
+    nav a{
+        text-decoration: none;
+        color: #444;
+        padding: 12px 30px;
+        border-bottom: #fff solid 3px;
+        transition: 300ms;
+    }
+    nav a:hover{
+        border-bottom: #B0E3FC solid 4px;
+    }
 main{
     min-height: 600px;
     width: 1100px;
     margin: auto;
 }
+    h1{
+        padding-left: 80px;
+        margin-bottom: 0px;
+    }
     main article{
         width: 310px;
         float: left;
@@ -37,4 +53,7 @@ main{
 footer{
     height: 150px;
     background-color: #F9F9F9;
+    text-align: center;
+    /* padding-top: 70px; */
+    line-height: 150px;
 }
