@@ -10,3 +10,30 @@ body {
     font-size: 1.2em;
     color: #473A34;
 }
+a{
+    text-decoration: none;
+}
+header nav{
+    height: 90px;
+    background-color: #D26137;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    /* sticky */
+    position: sticky;
+    top: 0px;
+}
+header nav a{
+    padding: 0px 25px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+header nav a:hover{
+    background-color: #473A34;
+    color: #FFFCA2;
+    transition: .3s;
+}
+header figure img{
+    width: 100%;
+}
