@@ -1,0 +1,22 @@
+body{
+    font-family: Helvetica;
+    background-color: #fefefe;
+}
+#caja{
+    height: 200px;
+}
+@media ( min-width: 576px) {
+    #caja{
+        background-color: #ffd4c0;
+    }
+}
+@media ( min-width: 768px) {
+    #caja{
+        background-color: #fdffc0;
+    }
+}
+@media ( min-width: 992px) {
+    #caja{
+        background-color: #c9ffc0;
+    }
+}
